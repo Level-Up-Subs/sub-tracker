@@ -22,3 +22,8 @@ A simple script to integrate PSA's API into a Shopify website
     <div id="trackResult"></div>
     </div>
     ```
+## Example
+https://www.levelupsubs.com/pages/sub-tracker
+
+## Resources
+https://api.psacard.com/publicapi/swagger/ui/index
